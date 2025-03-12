@@ -34,7 +34,8 @@ body:
     attributes:
       label: Wrapper Version
       options:
-        - "Wineskin-3.1.1_1"
+        - "Wineskin-3.1.2"
+        - "Wineskin-3.1.1_1 (not supported)"
         - "Wineskin-3.1.1 (not supported)"
         - "Wineskin-3.1.0 (not supported)"
         - "Wineskin-3.0.9 (not supported)"
