@@ -15,7 +15,7 @@ This project supports *macOS 10.15.4* or later.
 > ```
 > brew upgrade
 > brew uninstall --force --zap wineskin
-> brew install --cask --no-quarantine gcenx/wine/kegworks
+> brew install --cask --no-quarantine Kegworks-App/kegworks/kegworks
 > ```
 > <br>
 > 
