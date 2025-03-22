@@ -14,7 +14,6 @@ This project supports *macOS 10.15.4* or later.
 > How to install using [homebrew](https://brew.sh/)
 > ```
 > brew upgrade
-> brew uninstall --force --zap wineskin
 > brew install --cask --no-quarantine Kegworks-App/kegworks/kegworks
 > ```
 > <br>
