@@ -6,7 +6,7 @@ This project supports *macOS 10.15.4* or later.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gcenx)
 
-[![](https://ko-fi.com/img/githubbutton_sm.svg)](https://discord.gg/Kwj7wUVNfp)
+[![](https://dcbadge.limes.pink/api/server/vJTjDyzJM2?compact=true)](https://discord.gg/Kwj7wUVNfp)
 
 <br>
 
