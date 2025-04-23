@@ -55,7 +55,6 @@ body:
       description: What Engine where you using
       options:
         - "WS12WineCX24.0.7"
-        - "WS12WineKegworks10.0 (not supported)"
         - "WS12WineCX23.7.1_3 (not supported)"
         - "WS12WineCX23.7.1_2 (not supported)"
         - "WS12WineCX23.7.1_1 (not supported)"
