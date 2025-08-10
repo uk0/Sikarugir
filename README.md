@@ -65,7 +65,7 @@ _Creator-2.0.3/Wineskin-3.0.6-1 or greater_
 <br>
 
 ## Credits
-- [VitorMM](https://github.com/vitor251093) for modernizing the [Wineskin Codebase](https://github.com/vitor251093/wineskin) & [ObjectiveC_Extension](https://github.com/vitor251093/ObjectiveC_Extension) & writting Kegworks-App from the ground up.
+- [VitorMM](https://github.com/vitor251093) for modernizing the [Wineskin Codebase](https://github.com/vitor251093/wineskin) & [ObjectiveC_Extension](https://github.com/vitor251093/ObjectiveC_Extension) & writting Sikarugir-App from the ground up.
 - [PaulTheTall](https://www.paulthetall.com/) for constant test data and finding bugs.
 - doh123 for creating [Wineskin](https://web.archive.org/web/20141218081028/http://wineskin.urgesoftware.com/tiki-index.php).
 - [Gcenx](https://github.com/Gcenx) for maintaining the Wine Engines & upstream Winehq packages.
