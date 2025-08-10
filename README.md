@@ -4,9 +4,11 @@ This project supports *macOS 10.15.4* or later.
 
 <br>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gcenx)
+## Currently updating all urls/branding and will upload replacent apps when there complete.
 
-[![](https://dcbadge.limes.pink/api/server/vJTjDyzJM2?compact=true)](https://discord.gg/Kwj7wUVNfp)
+<br>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gcenx)
 
 <br>
 
@@ -49,7 +51,7 @@ This project supports *macOS 10.15.4* or later.
 
 ## Components that fall under LGPL-2.1 license
 - `Winery.app` (renamed/tweaked Wineskin Winery)
-- `Wineskin.app` (tweaked for Kegworks)
+- `Wineskin.app` (tweaked for Sikarugir)
 
 sources can be found https://github.com/Gcenx/wineskin-source/tree/Sikarugir
 
