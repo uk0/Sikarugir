@@ -49,13 +49,13 @@ This project supports *macOS 10.15.4* or later.
 - `Configure.app` (modified version of  `Wineskin.app`)
 - `Creator.app` (modified version of `Wineskin Winery.app`)
 
-~~sources can be found https://github.com/Gcenx/wineskin-source/tree/Sikarugir~~ sources will be provodes when the apps are available.
+Sources can be found https://github.com/Sikarugir-App/Sikarugir-foss-sources
 
 <br>
 
 ## Components that don't fall under LGPL-2.1 license
 _master wrappers Template-1.0/Wineskin-3.0.6-1 or greater_
-- `Launcher` (Running in wineskin compatibility mode)
+- `Sikarugir Launcher` (Running in wineskin compatibility mode)
 
 <br>
 
