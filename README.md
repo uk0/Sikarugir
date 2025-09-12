@@ -18,6 +18,10 @@ This project supports *macOS 10.15.4* or later.
 
 <br>
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/pCgYxRPIqjE/0.jpg)](http://www.youtube.com/watch?v=pCgYxRPIqjE)
+
+<br>
+
 > [!IMPORTANT]
 > DirectX support
 > - WineD3D (default) Supports DirectX 11 and below.
